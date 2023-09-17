@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any project with social impact**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/daniel-cuellar-664b68195/overlay/1635540441017/single-media-viewer/?type=DOCUMENT&profileId=ACoAAC3pc6wBDPRhVuZvLjmLHJ3WNrwuoq0LNLI](https://www.linkedin.com/in/daniel-cuellar-664b68195/overlay/1635540441017/single-media-viewer/?type=DOCUMENT&profileId=ACoAAC3pc6wBDPRhVuZvLjmLHJ3WNrwuoq0LNLI)
+- 📄 Know about my experiences [https://www.linkedin.com/in/daniel-cuellar](https://www.linkedin.com/in/daniel-cuellar)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
