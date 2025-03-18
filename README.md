@@ -74,7 +74,7 @@
   </a>
   <!-- n8n -->
   <a href="https://n8n.io" target="_blank" rel="noreferrer">
-    <img src="[https://raw.githubusercontent.com/n8n-io/n8n/master/packages/editor-ui/public/assets/icons/n8n-icon.svg](https://docs.n8n.io/_images/n8n-docs-icon.svg)" 
+    <img src="https://docs.n8n.io/_images/n8n-docs-icon.svg" 
          alt="n8n" width="40" height="40"/>
   </a>
 </p>
