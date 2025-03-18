@@ -6,9 +6,7 @@
 </p>
 
 - 🔭 I’m currently working on **Logistics**
-
-- 👯 I’m looking to collaborate on **any project with social impact**
-
+- 🤖 I’m passionate about **AI-driven automations** and integrating workflows with **n8n**
 - 📄 Know about my experiences [www.linkedin.com/in/joel-daniel-cuellar-santos]
 
 <h3 align="left">Connect with me:</h3>
