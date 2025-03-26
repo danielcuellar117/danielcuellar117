@@ -16,7 +16,7 @@
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
          alt="piroboelklolea" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/daniel-cuellar" target="blank">
+  <a href="https://linkedin.com/in/jdcuellar" target="blank">
     <img align="center" 
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
          alt="daniel-cuellar" height="30" width="40" />
