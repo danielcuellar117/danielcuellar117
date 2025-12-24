@@ -5,8 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=danielcuellar117&label=Profile%20views&color=0e75b6&style=flat" alt="danielcuellar117" /> 
 </p>
 
-- 🔭 I’m currently working on **Logistics**
-- 🤖 I’m passionate about **AI-driven automations** and integrating workflows with **n8n**
+- 🔭 I’m currently working on **AI & Automated Systems**
+- 🤖 I’m passionate about **AI-driven automations** and integrating systems
 - 📄 Know about my experiences [www.linkedin.com/in/joel-daniel-cuellar-santos]
 
 <h3 align="left">Connect with me:</h3>
