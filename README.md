@@ -1,5 +1,5 @@
 <h1 align="center">Daniel Cuellar</h1>
-<h3 align="center">AI Architect | Production AI Systems and Automation</h3>
+<h3 align="center">AI Solutions Architect | Production AI Systems and Automation</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=danielcuellar117&label=Profile%20views&color=0e75b6&style=flat" alt="danielcuellar117" />
